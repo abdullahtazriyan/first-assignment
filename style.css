@@ -1,0 +1,95 @@
+main{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+header{
+    background-image: url(Hero-bg.png);
+    background-size: cover;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin:50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    
+
+}
+button{
+    margin:10px;
+    background-color: burlywood;
+    display: flex;
+    height: 35px;
+}
+span{
+    color:brown
+}
+
+/* figure{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+} */
+
+section{
+    text-align: center;
+}
+.button1{
+ display: inline;
+}
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin:100px;
+}
+
+.section3{
+    display: flex;
+    justify-content: space-between;
+    margin:100px;
+}
+
+.section4{
+    text-align: center;
+}
+
+.section5{
+display: flex;
+text-align: center;
+gap: 30px;
+margin: 50px;
+padding: 10px;
+}
+.section6{
+    display:flex;
+    border: 1px solid black;
+}
+.ch2{
+text-align: start;
+}
+.img1{
+    margin-top: 30px;
+}
+.section7{
+    background-image: url(handshake.jpg);
+    background-size: cover;
+    padding: 120px;
+}
+.div1{
+    display:flex;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.input{
+    width: 450px;
+    height: 50px;
+}
+.button2{
+    width: 100px;
+    height: 50px;
+    padding-left:15px ;
+}
